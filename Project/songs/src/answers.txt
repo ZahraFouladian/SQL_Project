@@ -1,0 +1,4 @@
+  It is possible to do the same as Spoty, but in calculating the average,
+we give a coefficient to each parameter, which is different for each person,
+but the determination of this parameter and coefficients can be determined based on
+the age range or geographical region, of course, this method may give errors.
