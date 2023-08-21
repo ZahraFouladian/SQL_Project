@@ -1,4 +1,5 @@
-Lab 7: Songs
+Songs
+
 You are welcome to collaborate with one or two classmates on this lab, though it is expected that every student in any such group contribute equally to the lab.
 
 Write SQL queries to answer questions about a database of songs.
